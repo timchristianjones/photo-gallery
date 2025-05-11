@@ -46,7 +46,7 @@ header .nav-main .home-button {
   padding-right: 0.5rem;
   font-size: 24px;
   font-size: clamp(1.3rem, 4vw, 1.5rem);
-  font-weight: 500;
+  font-weight: 300;
 }
 header .intro {
   display: flex;
