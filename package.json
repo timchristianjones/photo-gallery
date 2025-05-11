@@ -30,11 +30,6 @@
     "name": "Tim Christian Jones",
     "url": "https://jazzy-trifle-adffdc.netlify.app/"
   },
-  "scripts": {
-  "build": "npm-run-all build:*",
-  "build:eleventy": "npx @11ty/eleventy",
-  "build:sass": "sass src/_includes/sass:src/_includes/css",
-}
 
   "license": "MIT"
 }
