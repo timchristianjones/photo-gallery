@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1, .h1 {
-    $min-size: 2.75rem;
+    $min-size: 7.75rem;
     $pref-size: 8vw;
     $max-size: 3.25rem;
     font-size: clamp(2.75rem, 8vw, 3.25rem);
