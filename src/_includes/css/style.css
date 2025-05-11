@@ -45,7 +45,7 @@ header .nav-main .home-button {
   color: #212121;
   padding-right: 0.5rem;
   font-size: 24px;
-  font-size: clamp(1.3rem, 4vw, 1.5rem);
+  font-size: clamp(2.3rem, 4vw, 2.5rem);
   font-weight: 300;
 }
 header .intro {
